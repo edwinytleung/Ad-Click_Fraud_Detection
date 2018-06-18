@@ -9,3 +9,8 @@ While successful, they want to always be one step ahead of fraudsters and have t
 # Evaluation
 
 Submissions are evaluated on area under the ROC curve between the predicted probability and the observed target.
+
+# Approach
+
+- LightGBM
+- CatBoost with feature engineering
